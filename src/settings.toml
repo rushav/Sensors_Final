@@ -1,0 +1,3 @@
+CIRCUITPY_WIFI_SSID = "Rushav’s iPhone"
+CIRCUITPY_WIFI_PASSWORD = "Trinity8404"
+CIRCUITPY_WEB_API_PASSWORD = "webpassword"
